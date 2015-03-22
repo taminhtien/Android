@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HocLifeTime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cua_so2">CuaSo2Activity</string>
+    <string name="title_activity_cua_so3">CuaSo3Activity</string>
+
+</resources>
