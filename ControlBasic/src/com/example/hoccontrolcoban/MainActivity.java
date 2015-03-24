@@ -45,7 +45,7 @@ public class MainActivity extends Activity implements OnLongClickListener {
 		findViewById(R.id.btn3).setOnLongClickListener(new MyEvent());
 	}
 
-	// Exilicit listener class
+	// Explicit listener class
 	public class MyEvent implements OnClickListener, OnLongClickListener {
 
 		@Override
