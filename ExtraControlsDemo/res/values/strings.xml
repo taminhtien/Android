@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExtraControlsDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Chương trình tính tiền sách online</string>
+    <string name="cusName">Tên khách hàng</string>
+    <string name="noBook">Số lượng sách</string>
+    <string name="vip">Khách hàng là VIP</string>
+    <string name="money">Thành tiền</string>
+    <string name="defaultSumPrice">0</string>
+    <string name="price">Thành tiền</string>
+    <string name="calSumPrice">Tính TT</string>
+    <string name="Continuos">Tiếp</string>
+    <string name="thongke">Thống kê</string>
+    <string name="thongtinthongke">Thông tin thống kê</string>
+    <string name="tongsokh">Tổng số khách hàng</string>
+    <string name="tongsokhvip">Tổng số KH là VIP</string>
+    <string name="tongdoanhthu">Tổng doanh thu</string>
+    <string name="exit">Exit</string>
+
+</resources>
