@@ -7,7 +7,7 @@ public class DanhSachKhachHang {
 
 	private List<KhachHang> ds = null;
 	public DanhSachKhachHang() {
-		this.ds = new ArrayList<>();
+		this.ds = new ArrayList<KhachHang>();
 	}
 	
 	public void themKhachHang(KhachHang kh) {
