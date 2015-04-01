@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arr_CAN">
+        <item>Canh</item>
+        <item>Tân</item>
+        <item>Nhâm</item>
+        <item>Qúy</item>
+        <item>Giáp</item>
+        <item>Ất</item>
+        <item>Bính</item>
+        <item>Đinh</item>
+        <item>Mậu</item>
+        <item>Kỷ</item>
+    </string-array>
+    
+    <string-array name="arr_CAN_EN">
+        <item>Canh</item>
+        <item>Tan</item>
+        <item>Nham</item>
+        <item>Quy</item>
+        <item>At</item>
+        <item>Binh</item>
+        <item>Dinh</item>
+        <item>Mau</item>
+        <item>Ky</item>
+    </string-array>
+    
+    <string-array name="arr_CHI">
+        <item>Thân</item>
+        <item>Dậu</item>
+        <item>Tuất</item>
+        <item>Hợi</item>
+        <item>Tí</item>
+        <item>Sửu</item>
+        <item>Dần</item>
+        <item>Mẹo</item>
+        <item>Thìn</item>
+        <item>Tỵ</item>
+        <item>Ngọ</item>
+        <item>Mùi</item>
+    </string-array>
+    
+     <string-array name="arr_CHI_EN">
+        <item>Than</item>
+        <item>Dau</item>
+        <item>Tuat</item>
+        <item>Hoi</item>
+        <item>Ti</item>
+        <item>Suu</item>
+        <item>Dan</item>
+        <item>Meo</item>
+        <item>Thin</item>
+        <item>Ty</item>
+        <item>Ngo</item>
+        <item>Mui</item>
+    </string-array>
+
+</resources>

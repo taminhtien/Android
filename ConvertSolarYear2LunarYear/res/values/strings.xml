@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConvertYearEToW</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="sSoftTitle">Chuyển đổi năm dương lịch</string>
+    <string name="sSoftTitleEN">Convert solar year</string>
+    
+    <string name="sEnterYear">Nhập năm</string>
+    <string name="sEnterYearEN">Enter year</string>
+    
+    <string name="sYearE">Năm âm lịch</string>
+    <string name="sYearEEN">Lunar year</string>
+    
+    <string name="sConvert">Chuyển đổi</string>
+    <string name="sConvertEN">Convert</string>
+    
+    <string name="sYearW">Năm dương lịch</string>
+    <string name="sYearWEN">Solar year</string>
+    
+    <string name="message">Năm %1$d là năm %2$s!</string>
+
+</resources>
